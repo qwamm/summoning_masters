@@ -1,0 +1,19 @@
+#Library files
+*.a
+
+#Cmake files
+CMakeFiles
+CMakeCache.txt
+*.cmake
+
+#Tests
+Catch2
+
+#Documentation
+html
+Doxyfile
+latex
+
+#Identifires
+*.Identifier
+/**/*:Zone.Identifier
